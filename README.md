@@ -1,0 +1,3 @@
+# Type Safety Issue in Scala Class Method
+
+This repository demonstrates a common type safety issue in Scala that can occur when dealing with generic types. The `myMethod` in `MyClass` does not correctly handle type constraints, leading to potential runtime issues or unexpected behavior. The solution provides a corrected version that enforces stronger type safety.  This is a crucial aspect of writing robust and maintainable Scala code.
